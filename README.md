@@ -1,0 +1,1 @@
+This repository contains python codes for different programming exercises.
