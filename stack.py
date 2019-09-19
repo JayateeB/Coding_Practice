@@ -32,7 +32,6 @@ class Stack:
         return self.items[-1]
 
 
-
 if __name__ == '__main__':
     my_stack = Stack()
     my_stack.push(3)
