@@ -37,7 +37,7 @@ if __name__ == '__main__':
     my_stack.push(3)
     my_stack.push(6)
     my_stack.print_stack()
-    my_stack.push(4)
+    my_stack.push(56)
     my_stack.print_stack()
     print(f"\nThe popped value is:{my_stack.pop()}")
     my_stack.print_stack()
